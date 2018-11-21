@@ -1,4 +1,4 @@
 ## LearnMore
 
-* Android project with technology list article.
+* Android technology articles list.
 
